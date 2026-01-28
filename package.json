@@ -5,7 +5,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "async": "~0.2.10",
+    "async": "~0.9.2",
     "bcrypt-nodejs": "~0.0.3",
     "cheerio": "~0.13.1",
     "connect-assets": "~2.5.4",
